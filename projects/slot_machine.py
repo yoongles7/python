@@ -68,6 +68,10 @@ def main():
     
         if input("\nDo you want to play again? (y/n): ").lower() == 'n':
             break
+        
+    print("--------------------------------------------")
+    print(f"GAME OVER! Your Final Balance: Rs.{balance}")
+    print("--------------------------------------------")
     
 
 
