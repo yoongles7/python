@@ -1,3 +1,6 @@
+# space invaders using pygame. I made this game following a tutorial from freecodecamp youtube channel https://github.com/attreyabhatt/Space-Invaders-Pygame
+
+
 import os
 import warnings
 
