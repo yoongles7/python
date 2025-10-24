@@ -207,6 +207,8 @@ while is_running:
     show_score(fontX, fontY)
     
     pygame.display.update()
+    
+    clock.tick(120)  # limits FPS to 60
 
     
 pygame.quit()
