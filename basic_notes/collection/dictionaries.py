@@ -21,3 +21,4 @@ capitals = {"USA": "Washington D.C",
 items = capitals.items()
 for key, value in capitals.items():
     print(f"{key}:{value}")
+    
